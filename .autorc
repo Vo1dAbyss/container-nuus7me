@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Vo1dAbyss",
+  "repo": "container-nuus7me",
+  "name": "Vo1dAbyss",
+  "email": "juliozapatahernandez2006@gmail.com",
+}
